@@ -1,3 +1,5 @@
 #!/bin/bash
 chown vincent :staff _hello
 chown -h vincent _hello
+#!/bin/bash
+chown vincent : staff _hello
